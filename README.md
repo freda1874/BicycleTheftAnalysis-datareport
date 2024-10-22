@@ -8,6 +8,7 @@ Bicycle theft is a persistent issue in Toronto, affecting daily life and challen
 
 **Project plan**
 We aim to determine the predominant factors and key associative rules that contribute to bicycle thefts in Toronto. Additionally, we seek to identify which factors increase the likelihood of bike recovery post-theft. 
+![image](https://github.com/user-attachments/assets/088f421b-e1a8-468d-a6a2-351156f3f1d1)
 
 **Hypotheses for Analysis**
 The following attributes may have a significant impact on both the likelihood of a bicycle being stolen and the chances of its recovery:
